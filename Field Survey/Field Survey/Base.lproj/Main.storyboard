@@ -27,7 +27,7 @@
             </objects>
             <point key="canvasLocation" x="-884" y="-108"/>
         </scene>
-        <!--Observations-->
+        <!--Field Survey-->
         <scene sceneID="amk-JZ-yON">
             <objects>
                 <viewController automaticallyAdjustsScrollViewInsets="NO" id="ZOW-1V-UPx" customClass="ObservationEventViewController" customModule="Field_Survey" customModuleProvider="target" sceneMemberID="viewController">
@@ -100,7 +100,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="VzI-WS-bDi"/>
                     </view>
-                    <navigationItem key="navigationItem" title="Observations" id="ZK9-YS-CyM"/>
+                    <navigationItem key="navigationItem" title="Field Survey" id="ZK9-YS-CyM"/>
                     <connections>
                         <outlet property="observationTableView" destination="8uw-up-PTw" id="hzx-8j-ZeL"/>
                     </connections>

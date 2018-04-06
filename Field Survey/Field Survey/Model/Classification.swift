@@ -15,6 +15,7 @@ enum Classification: String {
     case bird
     case reptile
     case plant
+    case amphibian
     
     var image: UIImage? {
         return UIImage(named: self.rawValue + "Icon")
